@@ -1,5 +1,5 @@
 <?php
-include_once("first.html");
+echo("first.html")
 
 
 
