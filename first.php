@@ -1,6 +1,1 @@
-<?php
-echo("first.html")
-
-
-
-?>
+<?php header('location: /first.html'); ?>
